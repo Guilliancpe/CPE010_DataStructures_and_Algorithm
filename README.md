@@ -6,6 +6,8 @@
 
 <b> What is Data Structures and Algorithms?</b>
 
+<br>
+
 <b> CONTENTS: </b>
 <p><b> 1. </b> Hands-on Activity 1.1 Basic C++ Programming</p>
 <p><b> 2. </b> Hands-on Activity 2.1 Arrays, Pointers and Dynamic Memory Allocation</p>
