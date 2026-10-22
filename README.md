@@ -1,2 +1,2 @@
 # Data Structures and Algorithms
-**Instructor: ** Engr. Jimlord QueJADO
+*Instructor: * Engr. Jimlord QueJADO
