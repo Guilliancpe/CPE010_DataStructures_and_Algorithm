@@ -1,8 +1,6 @@
 <img width="865" height="300" alt="image" src="https://github.com/user-attachments/assets/30ed2634-d7b0-4011-be9c-4ddca84a6089" />
 
-
-# Data Structures and Algorithms
-<b>Instructor: </b> Engr. Jimlord Quejado
+<h2><b>Instructor: </b> Engr. Jimlord Quejado</h2>
 
 <br>
 
