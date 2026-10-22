@@ -6,7 +6,7 @@
 
 <br>
 
-<b> What is Data Structures and Algorithms?</b>
+<b><h3> What is Data Structures and Algorithms?</h3></b>
 <p>We explored abstract data types, arrays linked lists, stacks, queues, searching techniques, sorting techniques, graphs, and algorithmic analysis. 
 Instead of just writing a code that works, we are writing a code that is organized, efficient, scalable and appropriate solution for the problem.</p>
 
