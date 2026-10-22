@@ -74,7 +74,6 @@
                 <td>Hands-on Activity 5.1</td>
                 <td>Queues</td>
             </tr>
-
             <!-- MIDTERMS -->
             <tr>
                 <td rowspan="4" class="term-header">MIDTERMS</td>
@@ -93,7 +92,6 @@
                 <td>Hands-on Activity 9.1</td>
                 <td>Tree ADT</td>
             </tr>
-
             <!-- FINALS -->
             <tr>
                 <td rowspan="5" class="term-header">FINALS</td>
