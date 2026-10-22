@@ -12,21 +12,6 @@
 
 
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <title>Course Content Outline</title>
-  <style>
-    table { width: 100%; border-collapse: collapse; font-family: Arial, sans-serif; margin: 20px 0; }
-    th, td { border: 1px solid #dddddd; text-align: left; padding: 12px; }
-    th { background-color: #f2f2f2; color: #333; }
-    tr:nth-child(even) { background-color: #f9f9f9; }
-    .term-header { background-color: #e6f2ff; font-weight: bold; color: #004085; }
-  </style>
-</head>
-<body>
-
   <table>
     <thead>
       <tr>
@@ -88,15 +73,15 @@
       </tr>
       <tr>
         <td>Hands-on Activity 12.1</td>
-        <td>Hash Tables and Hashing Techniques</td>
+        <td>Algorithmic Strategies</td>
       </tr>
       <tr>
         <td>Hands-on Activity 13.1</td>
-        <td>Heaps and Priority Queues</td>
+        <td>Parallel Algorithms and Multithreading</td>
       </tr>
       <tr>
         <td>Hands-on Activity 14.1</td>
-        <td>Final Project / Comprehensive Application</td>
+        <td>Algorithm Complexity</td>
       </tr>
     </tbody>
   </table>
