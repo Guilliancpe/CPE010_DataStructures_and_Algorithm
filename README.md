@@ -1,1 +1,2 @@
-# CPE010_DataStructures_and_Algorithm
+# Data Structures and Algorithms
+**Instructor: ** Engr. Jimlord QueJADO
