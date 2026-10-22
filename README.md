@@ -10,21 +10,115 @@
 
 <br>
 
-<b> CONTENTS: </b>
-<p><b>PRELIMS:</b></p>
-<p><b> 1. </b> Hands-on Activity 1.1 Basic C++ Programming</p>
-<p><b> 2. </b> Hands-on Activity 2.1 Arrays, Pointers and Dynamic Memory Allocation</p>
-<p></p><b> 3. </b> Hands-on Activity 3.1 Linked Lists</p>
-<p></p><b> 4. </b> Hands-on Activity 4.1 Stacks</p>
-<p></p><b> 5. </b> Hands-on Activity 5.1 Queues</p>
-<p><b>MIDTERMS:</b></p>
-<p><b> 6. </b> Hands-on Activity 6.1 Searching Techniques</p>
-<p><b> 7. </b> Hands-on Activity 7.1 Sorting Algorithms Pt1</p>
-<p><b> 8. </b> Hands-on Activity 8.1 Sorting Algorithms Pt2</p>
-<p><b> 9. </b> Hands-on Activity 9.1 Tree ADT</p>
-<p><b>FINALS:</b></p>
-<p><b> 10. </b> Hands-on Activity 10.1 Graphs </p>
-<p><b> 11. </b> Hands-on Activity 11.1 Basic Algorithm Analysis</p>
-<p><b> 12. </b> Hands-on Activity 12.1 Algorithmic Strategies</p>
-<p><b> 13. </b> Hands-on Activity 13.1 Parallel Algorithms and Multithreading</p>
-<p><b> 14. </b> Hands-on Activity 14.1 Algorithm Complexity</p>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Course Content Outline</title>
+    <style>
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            font-family: Arial, sans-serif;
+            margin: 20px 0;
+        }
+        th, td {
+            border: 1px solid #dddddd;
+            text-align: left;
+            padding: 12px;
+        }
+        th {
+            background-color: #f2f2f2;
+            color: #333;
+        }
+        tr:nth-child(even) {
+            background-color: #f9f9f9;
+        }
+        .term-header {
+            background-color: #e6f2ff;
+            font-weight: bold;
+            color: #004085;
+        }
+    </style>
+</head>
+<body>
+
+    <table>
+        <thead>
+            <tr>
+                <th>Term</th>
+                <th>Activity No.</th>
+                <th>Topic / Activity Name</th>
+            </tr>
+        </thead>
+        <tbody>
+            <!-- PRELIMS -->
+            <tr>
+                <td rowspan="5" class="term-header">PRELIMS</td>
+                <td>Hands-on Activity 1.1</td>
+                <td>Basic C++ Programming</td>
+            </tr>
+            <tr>
+                <td>Hands-on Activity 2.1</td>
+                <td>Arrays, Pointers and Dynamic Memory Allocation</td>
+            </tr>
+            <tr>
+                <td>Hands-on Activity 3.1</td>
+                <td>Linked Lists</td>
+            </tr>
+            <tr>
+                <td>Hands-on Activity 4.1</td>
+                <td>Stacks</td>
+            </tr>
+            <tr>
+                <td>Hands-on Activity 5.1</td>
+                <td>Queues</td>
+            </tr>
+
+            <!-- MIDTERMS -->
+            <tr>
+                <td rowspan="4" class="term-header">MIDTERMS</td>
+                <td>Hands-on Activity 6.1</td>
+                <td>Searching Techniques</td>
+            </tr>
+            <tr>
+                <td>Hands-on Activity 7.1</td>
+                <td>Sorting Algorithms Pt1</td>
+            </tr>
+            <tr>
+                <td>Hands-on Activity 8.1</td>
+                <td>Sorting Algorithms Pt2</td>
+            </tr>
+            <tr>
+                <td>Hands-on Activity 9.1</td>
+                <td>Tree ADT</td>
+            </tr>
+
+            <!-- FINALS -->
+            <tr>
+                <td rowspan="5" class="term-header">FINALS</td>
+                <td>Hands-on Activity 10.1</td>
+                <td>Graphs</td>
+            </tr>
+            <tr>
+                <td>Hands-on Activity 11.1</td>
+                <td>Basic Algorithm Analysis</td>
+            </tr>
+            <tr>
+                <td>Hands-on Activity 12.1</td>
+                <td>Algorithmic Strategies</td>
+            </tr>
+            <tr>
+                <td>Hands-on Activity 13.1</td>
+                <td>Parallel Algorithms and Multithreading</td>
+            </tr>
+            <tr>
+                <td>Hands-on Activity 14.1</td>
+                <td>Algorithm Complexity</td>
+            </tr>
+        </tbody>
+    </table>
+
+</body>
+</html>
