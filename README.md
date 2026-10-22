@@ -43,7 +43,6 @@
     </style>
 </head>
 <body>
-
     <table>
         <thead>
             <tr>
